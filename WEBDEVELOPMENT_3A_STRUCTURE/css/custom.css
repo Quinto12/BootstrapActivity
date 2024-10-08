@@ -1,0 +1,15 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: #660033;
+    color: white;
+    text-align: center
+}
+
+header .container a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
